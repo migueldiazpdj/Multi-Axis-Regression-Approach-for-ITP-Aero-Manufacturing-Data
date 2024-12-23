@@ -19,11 +19,11 @@ This repository contains the implementation of a Machine Learning project aimed 
 ├── README.md         # Project overview (this file)
 ```
 
-## License
-This project is licensed under the terms specified in the `LICENSE` file. All rights are reserved to the contributors of this repository.
+## 📜 License
+This project is licensed under the MIT License.
 
-## Attribution
-All photos and images used in this repository are our own. Please contact us for any inquiries regarding their use.
+## ✍️ Author
+This project was developed for learning and educational purposes. Contributions are welcome!
 
 ## Contact
 For questions or further collaborations, feel free to reach out.
