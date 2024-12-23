@@ -1,5 +1,7 @@
-# Multi-Axis-Regression-Approach-for-ITP-Aero-Manufacturing-Data
+# BrochAlign
 # ✈️Machine Learning for Broaching Optimization - ITP Aero✈️
+
+> This project was made by: Miguel Diaz & Dante Schrantz
 
 ## Project Overview
 This repository contains the implementation of a Machine Learning project aimed at optimizing the manufacturing process of airplane parts during broaching for ITP Aero. The goal is to build and evaluate predictive models to identify and address wear adjustments in the broaching process, ensuring efficiency and precision in production.
