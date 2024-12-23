@@ -1,4 +1,4 @@
-# BrochAlign
+# 🖌️BrochAlign🖌️
 # ✈️Machine Learning for Broaching Optimization - ITP Aero✈️
 
 > This project was made by: Miguel Diaz & Dante Schrantz
