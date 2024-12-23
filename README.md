@@ -25,10 +25,5 @@ This project is licensed under the terms specified in the `LICENSE` file. All ri
 ## Attribution
 All photos and images used in this repository are our own. Please contact us for any inquiries regarding their use.
 
-## How to Use
-1. Clone this repository.
-2. Navigate to the respective directories for data, notebooks, and source code.
-3. Follow the steps in the notebooks or execute scripts in the `src/` folder to replicate our results.
-
 ## Contact
 For questions or further collaborations, feel free to reach out.
