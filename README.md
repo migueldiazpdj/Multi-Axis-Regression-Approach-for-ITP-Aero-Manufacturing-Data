@@ -24,8 +24,5 @@ This repository contains the implementation of a Machine Learning project aimed 
 ## 📜 License
 This project is licensed under the MIT License.
 
-## ✍️ Author
-This project was developed for learning and educational purposes. Contributions are welcome!
-
 ## Contact
 For questions or further collaborations, feel free to reach out.
