@@ -22,7 +22,7 @@ This repository contains the implementation of a Machine Learning project aimed 
 ```
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License -> [LICENSE](LICENSE).
 
 ## Contact
 For questions or further collaborations, feel free to reach out.
